@@ -1,0 +1,1 @@
+docker run --network host -v /root/Insight:/root/Insight -w /root/Insight python_lzy:latest python threading_spider.py
