@@ -8,3 +8,4 @@
    threading_spider.py为爬虫脚本
 3、运行./docker.sh
 4、新建crontab定时任务：0 12 * * * sh /home/lzy/lzy/docker.sh
+5、docker镜像下载地址链接：https://pan.baidu.com/s/1c9KJExwos5kgNsiW-eLMsg 提取码：6666
